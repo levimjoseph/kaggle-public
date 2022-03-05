@@ -3,7 +3,9 @@ project_name
 
 Titanic Kaggle competition.
 
-https://www.kaggle.com/c/titanic
+[Competition](https://www.kaggle.com/c/titanic)
+[Githup Repo](https://github.com/levimjoseph/titanic)
+[Medium Post](https://medium.com/@levimjoseph/getting-started-with-kaggle-part-i-titanic-bb90a823fe47)
 
 Project Organization
 ------------
