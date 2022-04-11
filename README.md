@@ -1,7 +1,7 @@
 Titanic
 ==============================
 
-Titanic Kaggle competition.  
+Titanic Kaggle competition. 
 
 Links:
 
