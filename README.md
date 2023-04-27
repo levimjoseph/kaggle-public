@@ -9,7 +9,3 @@ Competition  | Code | Notebook | Result
 [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) | | | |
 [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) | | | |
 [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer) | | | |
-
-## Datasets
-Dataset | Code | Notebook | Source
----  | --- | --- | --- 
