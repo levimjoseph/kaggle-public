@@ -1,6 +1,6 @@
 # Kaggle Public
 
-## Getting Started Competitions
+## Notebooks
 
 Competition  | Code | Result | Leaderboard
 --- | --- | --- | --- 
