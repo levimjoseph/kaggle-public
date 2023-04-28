@@ -1,7 +1,5 @@
 # Kaggle Public
 
-## Getting Started
-
 Competition  | Code | Result | Leaderboard
 --- | --- | --- | --- 
 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  | [Titanic Classification](https://www.kaggle.com/code/levimjoseph/titanic-classifier) | 0.80622 | Top 3%
