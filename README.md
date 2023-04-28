@@ -1,6 +1,6 @@
 # Notebooks
 
- Competition  | Code | Result | Leaderboard 
+ Competition  | Code | Score | Ranking
 --- | --- | --- | ---
 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  | [Titanic Classification](https://www.kaggle.com/code/levimjoseph/titanic-classifier) | 0.80622 | Top 3%
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) | [House Price Regression](https://github.com/levimjoseph/kaggle-public/blob/main/house-prices-regression.ipynb) | | |
