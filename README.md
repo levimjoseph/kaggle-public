@@ -16,4 +16,4 @@ All notebooks are either in **done**, **in progress**, or **to do** status.
 
 ## To Do
 - [House Prices Regression](https://github.com/levimjoseph/kaggle-public/blob/main/house-prices-regression.ipynb)
-- [Store Sales Time Series]](https://github.com/levimjoseph/kaggle-public/blob/main/store-sales-time-series.ipynb)
+- [Store Sales Time Series](https://github.com/levimjoseph/kaggle-public/blob/main/store-sales-time-series.ipynb)
