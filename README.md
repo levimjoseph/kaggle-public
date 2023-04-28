@@ -1,4 +1,4 @@
-# Kaggle Public
+# Notebooks
 
 Competition  | Code | Result | Leaderboard
 --- | --- | --- | --- 
