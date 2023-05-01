@@ -4,7 +4,7 @@
 
 This a public repository of my Kaggle notebooks. 
 
-The `inputs` and `outputs` directories contains subfolders with associated data when applicable.
+The `inputs` and `outputs` directories contain subfolders with associated data when applicable.
 
 All notebooks are either in `done`, `in progress`, or `to do` status. 
 
