@@ -1,6 +1,4 @@
-# Kaggle Public
-
-## Overview
+# Overview
 
 This a public repository of my Kaggle notebooks. 
 
@@ -8,7 +6,8 @@ The `inputs` and `outputs` directories contain subfolders with associated data w
 
 All notebooks are either in `done`, `in progress`, or `to do` status. 
 
-## Notebooks
+# Notebooks
+
 - [Titanic Classification](https://github.com/levimjoseph/kaggle-public/blob/main/titanic-classification.ipynb) `in progress` 
 - [House Prices Regression](https://github.com/levimjoseph/kaggle-public/blob/main/house-prices-regression.ipynb) `to do`
 - [Store Sales Time Series](https://github.com/levimjoseph/kaggle-public/blob/main/store-sales-time-series.ipynb) `to do`
